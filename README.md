@@ -37,4 +37,3 @@ This project demonstrates practical skills in:
 
 ---
 
-## Project Structure
